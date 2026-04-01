@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "You'll Be in My Heart",
+  "base_artist": "NIKI",
+  "createdAt": "2026-04-01T12:36:27.604227Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You'll Be in My Heart",
+      "artist": "Alex",
+      "has_synced": false,
+      "path": "select/01_You'll_Be_in_My_Heart_Alex.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You'll Be in My Heart",
+      "artist": "USHER",
+      "has_synced": true,
+      "path": "select/02_You'll_Be_in_My_Heart_USHER.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You'll Be In My Heart",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/03_You'll_Be_In_My_Heart_Anri.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You'll Be in My Heart",
+      "artist": "DCappella",
+      "has_synced": false,
+      "path": "select/04_You'll_Be_in_My_Heart_DCappella.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You'll Be in My Heart",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/05_You'll_Be_in_My_Heart_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You'll Be in My Heart",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/06_You'll_Be_in_My_Heart_Various.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You'll Be In My Heart",
+      "artist": "Tarzan",
+      "has_synced": true,
+      "path": "select/07_You'll_Be_In_My_Heart_Tarzan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You’ll Be in My Heart",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/08_You’ll_Be_in_My_Heart_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You'll Be in My Heart",
+      "artist": "Gregorian",
+      "has_synced": false,
+      "path": "select/09_You'll_Be_in_My_Heart_Gregorian.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You'll Be In My Heart",
+      "artist": "FTISLAND",
+      "has_synced": false,
+      "path": "select/10_You'll_Be_In_My_Heart_FTISLAND.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You'll Be in My Heart",
+      "artist": "Celtic Woman",
+      "has_synced": true,
+      "path": "select/11_You'll_Be_in_My_Heart_Celtic_Woman.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You'll Be In My Heart",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/12_You'll_Be_In_My_Heart_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You’ll Be in My Heart",
+      "artist": "Alex Sharpe",
+      "has_synced": false,
+      "path": "select/13_You’ll_Be_in_My_Heart_Alex_Sharpe.txt"
+    }
+  ]
+}
